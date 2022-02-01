@@ -1,4 +1,4 @@
-//Contagem de Aunos
+//Contagem de Alunos
 // Concatenação - EX: console.log('O número ' + contador + ' é PAR')
     // Interpolação serve para se colocar valores de variáveis dentro de um texto.
     // Para isso usa-se a crase `` - EX: console.log(`O número ${contador} é PAR!`) 
